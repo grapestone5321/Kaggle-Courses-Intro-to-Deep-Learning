@@ -3,9 +3,9 @@ Kaggle-Courses-Intro-to-Deep-Learning
 
 -------
 
-1
-A Single Neuron
+### 1 A Single Neuron
 Learn about linear units, the building blocks of deep learning.
+
 2
 Deep Neural Networks
 Add hidden layers to your network to uncover complex relationships.
