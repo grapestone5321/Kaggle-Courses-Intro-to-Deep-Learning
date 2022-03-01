@@ -6,9 +6,9 @@ Kaggle-Courses-Intro-to-Deep-Learning
 ### 1 A Single Neuron
 Learn about linear units, the building blocks of deep learning.
 
-2
-Deep Neural Networks
+### 2 Deep Neural Networks
 Add hidden layers to your network to uncover complex relationships.
+
 3
 Stochastic Gradient Descent
 Use Keras and Tensorflow to train your first neural network.
