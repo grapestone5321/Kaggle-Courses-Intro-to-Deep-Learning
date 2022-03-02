@@ -15,9 +15,9 @@ Use Keras and Tensorflow to train your first neural network.
 ### 4 Overfitting and Underfitting
 Improve performance with extra capacity or early stopping.
 
-5
-Dropout and Batch Normalization
+### 5 Dropout and Batch Normalization
 Add these special layers to prevent overfitting and stabilize training.
+
 6
 Binary Classification
 Apply deep learning to another common task.
