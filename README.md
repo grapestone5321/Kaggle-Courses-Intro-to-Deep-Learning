@@ -12,9 +12,9 @@ Add hidden layers to your network to uncover complex relationships.
 ### 3 Stochastic Gradient Descent
 Use Keras and Tensorflow to train your first neural network.
 
-4
-Overfitting and Underfitting
+### 4 Overfitting and Underfitting
 Improve performance with extra capacity or early stopping.
+
 5
 Dropout and Batch Normalization
 Add these special layers to prevent overfitting and stabilize training.
