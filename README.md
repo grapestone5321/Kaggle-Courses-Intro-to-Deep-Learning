@@ -18,8 +18,7 @@ Improve performance with extra capacity or early stopping.
 ### 5 Dropout and Batch Normalization
 Add these special layers to prevent overfitting and stabilize training.
 
-6
-Binary Classification
+### 6 Binary Classification
 Apply deep learning to another common task.
 
 
